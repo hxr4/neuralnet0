@@ -1,0 +1,9 @@
+{
+  "BLOCK_THRESHOLD": 0.95,
+  "QUARANTINE_THRESHOLD": 0.6,
+  "UPSTREAM_DNS": "8.8.8.8",
+  "WARNING_IP": "127.0.0.1",
+  "DB_PATH": "phish_shield.db",
+  "HOST": "0.0.0.0",
+  "SCORE_PORT": 5000
+}

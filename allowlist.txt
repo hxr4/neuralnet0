@@ -1,0 +1,39 @@
+Core Functionality & Major Tech Companies
+https://www.google.com/search?q=google.com
+youtube.com
+googlevideo.com
+gstatic.com
+https://www.google.com/search?q=googleusercontent.com
+https://www.google.com/search?q=googleapis.com
+apple.com
+itunes.com
+icloud.com
+mzstatic.com
+microsoft.com
+windows.com
+live.com
+office.com
+amazon.com
+amazonaws.com
+facebook.com
+fbcdn.net
+instagram.com
+github.com
+github.io
+https://www.google.com/search?q=githubassets.com
+
+Major CDNs (Content Delivery Networks)
+cloudfront.net
+akamaihd.net
+akamaized.net
+fastly.net
+cloudflare.com
+llnwd.net
+https://www.google.com/search?q=vimeocdn.com
+
+Other common/essential domains
+spotify.com
+netflix.com
+twitter.com
+t.co
+vimeo.com
